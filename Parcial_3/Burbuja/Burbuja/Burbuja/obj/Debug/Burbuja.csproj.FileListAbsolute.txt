@@ -1,0 +1,7 @@
+C:\wamp64\www\Estructuras de Datos\Parcial_3\Burbuja\Burbuja\Burbuja\bin\Debug\Burbuja.exe.config
+C:\wamp64\www\Estructuras de Datos\Parcial_3\Burbuja\Burbuja\Burbuja\bin\Debug\Burbuja.exe
+C:\wamp64\www\Estructuras de Datos\Parcial_3\Burbuja\Burbuja\Burbuja\bin\Debug\Burbuja.pdb
+C:\wamp64\www\Estructuras de Datos\Parcial_3\Burbuja\Burbuja\Burbuja\obj\Debug\Burbuja.csproj.AssemblyReference.cache
+C:\wamp64\www\Estructuras de Datos\Parcial_3\Burbuja\Burbuja\Burbuja\obj\Debug\Burbuja.csproj.CoreCompileInputs.cache
+C:\wamp64\www\Estructuras de Datos\Parcial_3\Burbuja\Burbuja\Burbuja\obj\Debug\Burbuja.exe
+C:\wamp64\www\Estructuras de Datos\Parcial_3\Burbuja\Burbuja\Burbuja\obj\Debug\Burbuja.pdb

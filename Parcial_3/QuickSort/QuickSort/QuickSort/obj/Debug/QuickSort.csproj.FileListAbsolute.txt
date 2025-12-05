@@ -1,0 +1,7 @@
+C:\wamp64\www\Estructuras de Datos\Parcial_3\QuickSort\QuickSort\QuickSort\bin\Debug\QuickSort.exe.config
+C:\wamp64\www\Estructuras de Datos\Parcial_3\QuickSort\QuickSort\QuickSort\bin\Debug\QuickSort.exe
+C:\wamp64\www\Estructuras de Datos\Parcial_3\QuickSort\QuickSort\QuickSort\bin\Debug\QuickSort.pdb
+C:\wamp64\www\Estructuras de Datos\Parcial_3\QuickSort\QuickSort\QuickSort\obj\Debug\QuickSort.csproj.AssemblyReference.cache
+C:\wamp64\www\Estructuras de Datos\Parcial_3\QuickSort\QuickSort\QuickSort\obj\Debug\QuickSort.csproj.CoreCompileInputs.cache
+C:\wamp64\www\Estructuras de Datos\Parcial_3\QuickSort\QuickSort\QuickSort\obj\Debug\QuickSort.exe
+C:\wamp64\www\Estructuras de Datos\Parcial_3\QuickSort\QuickSort\QuickSort\obj\Debug\QuickSort.pdb

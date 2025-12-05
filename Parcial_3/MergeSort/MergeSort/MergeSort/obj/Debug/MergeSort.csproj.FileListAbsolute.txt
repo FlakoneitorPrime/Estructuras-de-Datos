@@ -1,0 +1,7 @@
+C:\wamp64\www\Estructuras de Datos\Parcial_3\MergeSort\MergeSort\MergeSort\bin\Debug\MergeSort.exe.config
+C:\wamp64\www\Estructuras de Datos\Parcial_3\MergeSort\MergeSort\MergeSort\bin\Debug\MergeSort.exe
+C:\wamp64\www\Estructuras de Datos\Parcial_3\MergeSort\MergeSort\MergeSort\bin\Debug\MergeSort.pdb
+C:\wamp64\www\Estructuras de Datos\Parcial_3\MergeSort\MergeSort\MergeSort\obj\Debug\MergeSort.csproj.AssemblyReference.cache
+C:\wamp64\www\Estructuras de Datos\Parcial_3\MergeSort\MergeSort\MergeSort\obj\Debug\MergeSort.csproj.CoreCompileInputs.cache
+C:\wamp64\www\Estructuras de Datos\Parcial_3\MergeSort\MergeSort\MergeSort\obj\Debug\MergeSort.exe
+C:\wamp64\www\Estructuras de Datos\Parcial_3\MergeSort\MergeSort\MergeSort\obj\Debug\MergeSort.pdb

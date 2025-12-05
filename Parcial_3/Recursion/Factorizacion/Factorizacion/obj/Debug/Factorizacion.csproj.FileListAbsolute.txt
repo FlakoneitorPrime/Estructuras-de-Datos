@@ -1,0 +1,7 @@
+C:\wamp64\www\Estructuras de Datos\Parcial_3\Recursion\Factorizacion\Factorizacion\bin\Debug\Factorizacion.exe.config
+C:\wamp64\www\Estructuras de Datos\Parcial_3\Recursion\Factorizacion\Factorizacion\bin\Debug\Factorizacion.exe
+C:\wamp64\www\Estructuras de Datos\Parcial_3\Recursion\Factorizacion\Factorizacion\bin\Debug\Factorizacion.pdb
+C:\wamp64\www\Estructuras de Datos\Parcial_3\Recursion\Factorizacion\Factorizacion\obj\Debug\Factorizacion.csproj.AssemblyReference.cache
+C:\wamp64\www\Estructuras de Datos\Parcial_3\Recursion\Factorizacion\Factorizacion\obj\Debug\Factorizacion.csproj.CoreCompileInputs.cache
+C:\wamp64\www\Estructuras de Datos\Parcial_3\Recursion\Factorizacion\Factorizacion\obj\Debug\Factorizacion.exe
+C:\wamp64\www\Estructuras de Datos\Parcial_3\Recursion\Factorizacion\Factorizacion\obj\Debug\Factorizacion.pdb

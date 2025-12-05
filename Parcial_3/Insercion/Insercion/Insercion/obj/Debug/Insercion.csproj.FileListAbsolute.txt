@@ -1,0 +1,7 @@
+C:\wamp64\www\Estructuras de Datos\Parcial_3\Insercion\Insercion\Insercion\bin\Debug\Insercion.exe.config
+C:\wamp64\www\Estructuras de Datos\Parcial_3\Insercion\Insercion\Insercion\bin\Debug\Insercion.exe
+C:\wamp64\www\Estructuras de Datos\Parcial_3\Insercion\Insercion\Insercion\bin\Debug\Insercion.pdb
+C:\wamp64\www\Estructuras de Datos\Parcial_3\Insercion\Insercion\Insercion\obj\Debug\Insercion.csproj.AssemblyReference.cache
+C:\wamp64\www\Estructuras de Datos\Parcial_3\Insercion\Insercion\Insercion\obj\Debug\Insercion.csproj.CoreCompileInputs.cache
+C:\wamp64\www\Estructuras de Datos\Parcial_3\Insercion\Insercion\Insercion\obj\Debug\Insercion.exe
+C:\wamp64\www\Estructuras de Datos\Parcial_3\Insercion\Insercion\Insercion\obj\Debug\Insercion.pdb
